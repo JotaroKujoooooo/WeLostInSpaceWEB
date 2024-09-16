@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'home';
+    src: url('fonts/helvetica_regular.otf');
+}
+
+.albums
+{
+    margin-left: 1vw;
+    margin-top:1vw;
+    display: block;
+    font-family: home;
+    justify-content: left;
+    text-align: center;
+    max-width: 98vw;
+    font-size: 150%;
+} 
+.description
+{
+    text-align: left;
+    text-shadow: 0.2vw 0vw 0.2vw lightsteelblue;
+}

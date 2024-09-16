@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'home';
+    src: url('fonts/helvetica_regular.otf');
+}
+
+.home
+{
+    margin-top:10vw;
+    display: grid;
+    font-family: home;
+    justify-content: center;
+    text-align: center;
+}  

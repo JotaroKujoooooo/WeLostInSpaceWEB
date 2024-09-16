@@ -1,0 +1,15 @@
+#root {
+    max-width: 1920px;
+    text-align: center;
+    margin: auto;
+    padding: 2rem;
+}
+.shit {
+
+    color: red;
+    background-color:blue;
+    margin: auto;
+    width: auto;
+    height: 0 auto;
+}
+    

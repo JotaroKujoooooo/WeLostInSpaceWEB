@@ -1,0 +1,17 @@
+.modal
+{
+    height: 100%;
+    width: 100%;
+    background-color: grey;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.modal_content
+{
+    padding:20px;
+    border-radius: 12px;
+    background-color: white;
+    height: 200px;
+    width: 400px;
+}
